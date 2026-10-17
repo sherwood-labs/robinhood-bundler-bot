@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.local
+coverage
+.DS_Store
+
+# Local launch parameters. Copy from src/config/config.example.json.
+src/config/config.json
